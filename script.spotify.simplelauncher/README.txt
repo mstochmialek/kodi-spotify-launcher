@@ -1,0 +1,1 @@
+Launches Spotify desktop version from Kodi. 

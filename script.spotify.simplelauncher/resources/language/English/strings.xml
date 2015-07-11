@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="50000">Spotify</string>
+
+    <!-- Settings -->
+    <string id="50050">General</string>
+    <string id="50060">Linux</string>
+    <string id="50062">Spotify location</string>
+    <string id="50070">Windows</string>
+    <string id="50080">OSX</string>
+    <string id="50112">'Busy dialog' timeout</string>
+
+    <!-- Error Messages -->
+    <string id="50120">File does not exist</string>
+    <string id="50121">Open addon settings?</string>
+    <string id="50123">ERROR!</string>
+    <string id="50126">Check kodi.log file for details</string>
+
+</strings>
