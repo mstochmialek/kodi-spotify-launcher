@@ -14,7 +14,7 @@
         <license>MIT License</license>
         <forum></forum>
         <website></website>
-        <source></source>
-        <email></email>
+        <source>https://github.com/mstochmialek/kodi-spotify-launcher</source>
+        <email>michal.stochmialek@gmail.com</email>
     </extension>
 </addon>
